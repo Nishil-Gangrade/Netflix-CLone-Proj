@@ -1,2 +1,2 @@
 # Netflix-CLone-Proj
-Netflix Clone project using HTML and CSS.
+This is my first project of Webdev ,i just compeleted html and css so this is like just a practice on css concepts.
